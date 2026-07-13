@@ -1,6 +1,6 @@
 # PHASE-1-PROJECT
 
-by Cleve Ragira Mwebi
+by Arnold ogora
 
 Overview
 This project aims to dissect movie data to generate strategic insights for Microsoft's entrance into film. The key business goal is determining success factors and potential openings within the industry. The data encompasses movie titles, release years, genres, ratings, votes, studios, and domestic and international earnings. Techniques like data visualization, correlation analysis, and studio assessments are utilized. Findings show a weak positive link between ratings and domestic revenue, plus a skewed distribution of domestic earnings. Popular genres are also identified, and top studios ranked by domestic revenue. Recommended focus areas include high-revenue genres, optimal runtimes, partnerships with top studios, and accounting for market trends. In summary, by analyzing critical performance metrics and industry benchmarks, this project derives data-driven intelligence to inform Microsoft's movie venture strategy and prospects for gain.
